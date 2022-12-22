@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include "lab11.h"
-
-//  Фигура - прямоугольный треугольник
+#include "triangle.c"
 
 int main() {
     struct RightTriangle T;
