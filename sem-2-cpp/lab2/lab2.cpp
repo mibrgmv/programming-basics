@@ -1,5 +1,4 @@
-#include "lab2.h"
-using namespace std;
+#include "stack.cpp"
 
 int main() {
     Stack s(3);
@@ -7,6 +6,5 @@ int main() {
     s.push(3);
     s.push(8);
     s.push(1);
-    s.display();
     return 0;
 }
