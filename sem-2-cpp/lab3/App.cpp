@@ -1,4 +1,4 @@
-#include "classApp_3.h"
+#include "App.h"
 
 int App_3::start() {
     Matrix A = {}, B = {}, C = {};

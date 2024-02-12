@@ -1,4 +1,4 @@
-#include "classConsole.h"
+#include "Console.h"
 
 void Console::Print(Matrix *matrix) {
     for (int i = 0; i < 3; i++) {

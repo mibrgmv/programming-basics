@@ -1,4 +1,4 @@
-#include "classComplex.h"
+#include "ComplexNumber.h"
 #include <math.h>
 
 Complex::Complex() : re(), im() {}

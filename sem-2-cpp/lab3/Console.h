@@ -1,8 +1,8 @@
 #ifndef CONSOLE
 #define CONSOLE
 #include <iostream>
-#include "classMatrix.h"
-#include "classComplex.h"
+#include "Matrix.h"
+#include "ComplexNumber.h"
 class Console {
 public:
     void Print(Matrix *matrix);

@@ -1,5 +1,5 @@
 #include <iostream>
-#include "classMatrix.h"
+#include "Matrix.h"
 
 double self[3][3];
 Matrix Matrix::operator*(Matrix &B) {
