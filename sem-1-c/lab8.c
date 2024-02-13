@@ -21,7 +21,7 @@ int main() {
     char *s;
     for (s = a; *s; s++) {
         if (strchr(b, *s)) {
-            printf("%c is in %s\n", *s, a);
+            printf("%sem-1-c is in %s\n", *s, a);
         }
     }
     // Поиск каждого символа из второй строки в первой строке
